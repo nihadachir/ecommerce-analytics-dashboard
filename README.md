@@ -33,8 +33,6 @@ The goal is to help stakeholders track sales performance, understand customer be
   - *Product Insights*: top products, units vs revenue, low-performing items  
   
 
-## 📊 Dashboard Preview
-*(Insert screenshot of your dashboard here once ready)*
 
 ## 🚀 How to Run
 1. Clone the repository:
